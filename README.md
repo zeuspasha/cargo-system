@@ -2,8 +2,8 @@
 <%--
 
     Document   : readme.md
-    Created on : 20 Nisan 2025, 20:07:41
-    Author     : Besat Çıngar
+    Created on : 20 Temmuz 2025, 20:07:41
+    Author     : Pasha
     
 --%>
 

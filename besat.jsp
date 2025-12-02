@@ -1,13 +1,13 @@
 <%-- 
     Document   : readme.md
     Created on : 20 Nisan 2025, 20:07:41
-    Author     : Besat Çıngar
+    Author     : pasha
 --%>
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <%
-    String besat = "Besat";
+    String besat = "pasha";
 %>
 
 <html>
